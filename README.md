@@ -50,6 +50,11 @@ That repo contains the GitHub-ready scripts, runbooks, CI evidence, case study, 
 - [freelance-lead-validation-tracker.csv](./trackers/freelance-lead-validation-tracker.csv)  
   Lead capture and demand-validation log for services.
 
+### Portable artifacts
+
+- [Mohamed_Senator_Service_Menu_2026.pdf](./artifacts/Mohamed_Senator_Service_Menu_2026.pdf)  
+  One-page sendable service menu for DMs, proposals, and outreach.
+
 ## Publish-First Priority
 
 If only the first 14 days matter, do these first:
