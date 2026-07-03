@@ -38,6 +38,8 @@ That repo contains the GitHub-ready scripts, runbooks, CI evidence, case study, 
   Role filters, Boolean searches, application workflow, and tailoring rules.
 - [outreach-scripts.md](./career-assets/outreach-scripts.md)  
   Upwork, Fiverr, founder DM, and agency email scripts.
+- [client-discovery-and-intake.md](./career-assets/client-discovery-and-intake.md)  
+  Secret-safe discovery script, qualification flow, and scope-close wording for leads.
 - [30-day-execution-checklist.md](./career-assets/30-day-execution-checklist.md)  
   Daily checklist for the first month.
 - [side-income-validation.md](./career-assets/side-income-validation.md)  
@@ -49,6 +51,8 @@ That repo contains the GitHub-ready scripts, runbooks, CI evidence, case study, 
   Daily job application log.
 - [freelance-lead-validation-tracker.csv](./trackers/freelance-lead-validation-tracker.csv)  
   Lead capture and demand-validation log for services.
+- [client-intake-call-notes.csv](./trackers/client-intake-call-notes.csv)  
+  Call or chat notes template for capturing buyer language and package fit.
 
 ### Portable artifacts
 
