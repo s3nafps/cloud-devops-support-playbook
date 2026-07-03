@@ -56,6 +56,10 @@ That repo contains the GitHub-ready scripts, runbooks, CI evidence, case study, 
   Lead capture and demand-validation log for services.
 - [client-intake-call-notes.csv](./trackers/client-intake-call-notes.csv)  
   Call or chat notes template for capturing buyer language and package fit.
+- [weekly-execution-scoreboard.csv](./trackers/weekly-execution-scoreboard.csv)  
+  Weekly scoreboard for applications, replies, interviews, outreach, proof, and revenue.
+- [trackers/README.md](./trackers/README.md)  
+  How to use the CSV trackers and what to review each week.
 
 ### Portable artifacts
 
