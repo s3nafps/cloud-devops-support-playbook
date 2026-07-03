@@ -21,6 +21,9 @@ This repo is not a SaaS idea and not a generic advice dump. It is an execution p
 Operational proof lives in the companion repo:
 
 - [CloudOps Rescue Kit](https://github.com/s3nafps/cloudops-rescue-kit)
+- [Sample client deliverables pack](https://github.com/s3nafps/cloudops-rescue-kit/blob/main/docs/case-studies/sample-client-deliverables.md)
+- [Sample incident report](https://github.com/s3nafps/cloudops-rescue-kit/blob/main/examples/sample-incident-report.md)
+- [Sample handover note](https://github.com/s3nafps/cloudops-rescue-kit/blob/main/examples/sample-handover-note.md)
 
 That repo contains the GitHub-ready scripts, runbooks, CI evidence, case study, service validation notes, and Docker/VPS support toolkit referenced by this playbook.
 
